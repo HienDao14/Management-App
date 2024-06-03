@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ManagementApp</string>
+
+    <string name="facebook_app_id">1302726777786175</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">cd900e8aa3eb7a1dbb8e1cf1a2402827</string>
+
+</resources>
